@@ -12,6 +12,8 @@ pip install -r requirements.txt
 ```bash
 python main.py -prompt "你的提示词"
 ```
+注：加载模型时间可能较久
+
 ### 方法二——使用Postman
 首先在本地执行
 ```
